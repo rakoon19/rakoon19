@@ -1,5 +1,5 @@
 # 💫 About Me:
-A business student with a growing interest in web development and the technology industry. Interested in building and deploying real-world projects, with long-term aspirations of becoming a Software Project Manager / Front-End Engineer / Developer Experience Engineer in the software industry.
+A business student with a growing interest in web development and the technology industry. Interested in building and deploying real-world projects, with long-term aspirations of becoming a Software Project Manager / Developer Experience Engineer in the software industry.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rakoon19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahat-akondo) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rakoonfps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahatakondo18@gmail.com) 
